@@ -129,7 +129,7 @@
 		C1B478D825E3A3770033DAD6 /* classes */ = {
 			isa = PBXGroup;
 			children = (
-				C1B478D925E3A3770033DAD6 /* Hone */,
+				C1B478D925E3A3770033DAD6 /* Home */,
 				C1B478DA25E3A3770033DAD6 /* Tools */,
 				C1B478DB25E3A3770033DAD6 /* Follow */,
 				C1B478DC25E3A3770033DAD6 /* Profile */,
@@ -139,11 +139,11 @@
 			path = classes;
 			sourceTree = SOURCE_ROOT;
 		};
-		C1B478D925E3A3770033DAD6 /* Hone */ = {
+		C1B478D925E3A3770033DAD6 /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = Hone;
+			path = Home;
 			sourceTree = "<group>";
 		};
 		C1B478DA25E3A3770033DAD6 /* Tools */ = {
